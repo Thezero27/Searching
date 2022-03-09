@@ -1,0 +1,24 @@
+#controles{
+    display: flex;
+    align-items: center; 
+    justify-content: space-evenly;
+}
+#play{
+    padding-left: 6px; 
+    width: 65px; height: 65px;
+    margin: 100px 0px 50px 0px;
+}
+.h1{
+    font-size: 2vr;
+    color: red;
+}
+.ventana{
+    background-color: gray;
+    border-radius: 3vh;
+}
+body{
+    background-color: black;
+}
+.tex{
+    color: rgb(27, 27, 27);
+}
